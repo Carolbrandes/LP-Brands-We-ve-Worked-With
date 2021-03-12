@@ -1,0 +1,15 @@
+.title01{
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 29px;
+    line-height: 39px;
+    color: hsl(0, 0%, 97%);
+    padding-bottom: 20px;
+
+    @media screen and (min-width: $md){
+        font-size: 76px;
+        line-height: 103px;
+    }
+
+}
+
